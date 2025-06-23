@@ -1,4 +1,4 @@
-package com.hello_projec.hello_projec.todo;
+package com.hello_projec.hello_projec.todo.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
